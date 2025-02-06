@@ -1,0 +1,101 @@
+@charset "utf-8";
+
+
+.banner {
+    width: 100%;
+} 
+
+.float-left img{
+    float: left;
+} 
+
+main img {
+    width: 40%;
+}
+
+aside img {
+    width: 30%;
+}
+
+
+
+@media (min-width: 576px) { 
+    .banner {
+        width: 100%;
+    }
+}
+
+@media (min-width: 768px) { 
+    main img {
+        width: max-content;
+    }
+}
+
+
+
+@media (min-width: 1200px) { 
+    .banner {
+        width: max-content;
+    }
+}
+
+@media (min-width: 1400px) {
+    body {
+        margin: auto;
+    }
+
+    header nav{
+        padding: 30px 0 30px 0;
+    }
+
+
+    main h1 {
+        padding: 20px;
+    }
+
+
+    main, section {
+        margin: 20px auto 20px auto;
+    }
+
+    .float-left img{
+        float: left;
+    }
+
+    .copyright {
+        text-align: right;
+        margin: 10px;
+    }
+
+
+}
+
+.bi-instagram {
+    font-size: 40px;
+    padding: 10px;
+    color: rgb(225, 48, 108);
+}
+
+.bi-facebook {
+    font-size: 40px;
+    padding: 10px;
+    color: rgb(59,89,152);
+}
+
+.bi-twitter-x {
+    font-size: 40px;
+    padding: 10px;
+    color: rgb(0,0,0);;
+}
+
+.bi-amazon {
+color: rgb(255, 153, 0);
+}
+
+.bi-apple {
+    color: black;
+}
+
+.bi-bag-fill {
+    color: rgb(238, 77, 45);
+}
