@@ -1,0 +1,11 @@
+@charset "UTF-8";
+
+table {background-color:#00ffff4f;}
+table, tr, td, th, caption {
+    border: solid 2px yellow;
+    padding: 3px;
+    color: black;
+}
+article {background-color: rgba(59, 78, 11 , 0.5);}
+ h1 {border: dashed;}
+

@@ -1,0 +1,11 @@
+@charset "UTF-8";
+
+table {background-color: white;}
+table, tr, td, th, caption {
+    border: solid 2px black;
+    padding: 3px;
+    color: black;
+}
+article {background-color: lightpink;}
+thead, caption, th {background-color: lightblue;}
+span {color: red;}

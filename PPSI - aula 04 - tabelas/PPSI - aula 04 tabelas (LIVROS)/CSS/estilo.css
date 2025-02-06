@@ -1,0 +1,9 @@
+@charset "UTF-8";
+
+table {background-color: red;}
+table, tr, td, th, caption {
+    border: solid 2px chocolate;
+    padding: 3px;
+    color: black;
+}
+article {background-color: aqua;}

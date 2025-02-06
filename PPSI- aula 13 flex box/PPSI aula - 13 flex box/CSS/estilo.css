@@ -1,0 +1,71 @@
+@charset "UTF-8";
+
+html {
+    background-color: beige;
+}
+
+body {
+    background-color: rgba(0, 0, 255, 0.6);
+    width: 980px;
+    margin: 0px auto 0px auto;
+}
+
+
+
+
+.imagemheader {
+    width: 980px;
+    align-items: center;
+    
+}
+
+.h1header {
+ text-align: center;
+}
+
+.navone {
+    text-align: center;
+    
+}
+
+nav a {
+    padding: 50px 50px 50px 50px;
+    text-decoration: none;
+}
+
+.ultimasection {
+    display: flex;
+}
+
+main {
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+}
+
+.footer1 {
+    padding: 10px;
+}
+
+footer {
+    display: flex;
+    flex-direction: row;
+}
+
+.navtwo {
+ display: flex;
+ flex-direction: column;
+padding: 10px;
+}
+
+.navtwoa {
+    width: 100px;
+}
+
+.footersmall {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-items: center;
+    align-items: center;
+}

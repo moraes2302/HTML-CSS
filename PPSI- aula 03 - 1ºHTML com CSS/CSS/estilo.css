@@ -1,0 +1,8 @@
+@charset "UTF-8";
+
+html { background-color: white; }
+body { background-color: white; }
+body {border: solid 3px black;}
+nav {border: solid 5px orange;}
+img {border: solid 4px blue;}
+h1, h2, h3, h4 {color: greenyellow;}

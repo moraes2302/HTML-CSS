@@ -1,0 +1,7 @@
+@charset "UTF-8";
+header{font-size:larger}
+h1, aside{background-color: rgb(87, 117, 216); font-size: larger;}
+h2 {font-size: large;}
+h3,h4{font-size:medium;}
+h3{font-style: italic; background-color: rgba(165, 67, 144, 0.918)}
+body {background-color: beige;}

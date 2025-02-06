@@ -1,0 +1,33 @@
+@charset "UTF-8";
+
+html {
+ background-color: beige;}
+
+body {
+
+    background-color: rgba(85, 209, 161, 25%);
+    width: 980px;
+    margin: 0px auto 0px auto;
+}
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    text-align: justify;
+    padding: 2px;
+    margin: 3px 3px 3px 3px;
+   
+}
+
+h1{
+    padding-left: 45px;
+    font-size: xx-large;
+}
+ figure, h1 {
+    
+    margin-right: auto;
+    margin-left: 220px;
+ }
+
+ header {
+    margin: 10px 20px 10px 10px;
+ }
